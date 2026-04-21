@@ -58,6 +58,7 @@ Los modelos de **Regresión Logística** y **LightGBM** mostraron el mejor rendi
 ## 👩‍💻 Autora
 
 *Jenifer Gonzalez*
+
 Data Science | QA Engineer | Scrum Master 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/jenifer-paola-gonzalez-peñuela)
