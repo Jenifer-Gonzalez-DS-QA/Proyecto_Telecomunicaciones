@@ -53,5 +53,14 @@ Los modelos de **Regresión Logística** y **LightGBM** mostraron el mejor rendi
     ```
 4.  Abre el `notebook.ipynb` en un entorno compatible (Jupyter Lab, Jupyter Notebook, Google Colab).
 
+-----
 
+## 👩‍💻 Autora
 
+*Jenifer Gonzalez*
+Data Science | QA Engineer | Scrum Master 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/jenifer-paola-gonzalez-peñuela)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Jenifer-Gonzalez-DS-QA/jenifergon91))
+
+-----
