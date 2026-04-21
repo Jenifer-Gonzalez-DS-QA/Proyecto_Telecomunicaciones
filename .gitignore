@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python/
+build/
+dist/
+
+# Jupyter/Colab
+.ipynb_checkpoints
+.Rhistory
+.Trash/
+
+# Data files
+*.csv
+*.data
+*.xls
+*.xlsx
+
+# Logs
+*.log
+
+# Environment
+venv/
+.env
+
+# IDEs and OS
+.idea/
+.vscode/
+.DS_Store
+thumbs.db
+
+# Other generated files
+*.pkl
+*.bin
+*.model
