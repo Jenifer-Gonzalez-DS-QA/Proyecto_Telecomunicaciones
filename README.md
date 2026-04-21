@@ -29,7 +29,7 @@ Los modelos de **Regresión Logística** y **LightGBM** mostraron el mejor rendi
 *   `README.md`: Este archivo.
 *   `requirements.txt`: Lista de dependencias de Python.
 *   `.gitignore`: Archivos y directorios a ignorar por Git.
-*   `notebook.ipynb`: El cuaderno de Jupyter/Colab con todo el código y análisis.
+*   `Proyecto_Telecomunicaciones.ipynb`: El cuaderno de Jupyter/Colab con todo el código y análisis.
 *   `data/`: Directorio que contiene los archivos CSV originales.
     *   `contract.csv`
     *   `personal.csv`
